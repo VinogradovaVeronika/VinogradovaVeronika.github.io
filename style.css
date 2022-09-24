@@ -1,0 +1,19 @@
+body {
+    Background-color:#CCCCFF;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+nav {
+    background-color: #CCCCFF
+}
+main {
+    background-color: #bbeeff;
+}
+input {
+    background-color: #ffffff;
+}
+href {
+    background-color: #ccffff;
+}
